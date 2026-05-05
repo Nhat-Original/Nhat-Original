@@ -8,7 +8,7 @@
   
 - 🎓 I'm currently studying at: VNU-HCM University of Information Technology
 - 💬 Ask me about: Web development, Typescript, Vim
-- 📫 How to reach me: [nhatoriginal@gmail.com](mailto:nhatoriginal@gmail.com)
+- 📫 How to reach me: <minhnhathoangvn@gmail.com>
 - ⚡ Fun fact: I have a diverse taste in music
 
 </details>
